@@ -1,1 +1,3 @@
 Zatial som urobil priklady git init a git add//
+
+Teraz skusam novy branch snad to pojde
