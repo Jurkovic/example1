@@ -1,0 +1,1 @@
+Zatial som urobil priklady git init a git add//
